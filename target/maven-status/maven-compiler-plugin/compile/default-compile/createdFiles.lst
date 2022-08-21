@@ -1,0 +1,3 @@
+com\accenture\lkm\Application.class
+com\accenture\lkm\client\ConsumerControllerClient.class
+com\accenture\lkm\client\ConsumerControllerClient2LB_REST_TEMP.class
